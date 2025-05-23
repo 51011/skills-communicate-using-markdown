@@ -1,4 +1,4 @@
 # Picture of a Cat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-var myVar = "Hello, World!";
+var myVar = "Hello, world!";
