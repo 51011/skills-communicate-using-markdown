@@ -1,1 +1,2 @@
-# Second try to add an Header
+# Picture of a Cat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
